@@ -1,0 +1,5 @@
+1. Create a new page in HTML and give it a title of HTML Phrase Tags
+2. Write a paragraph (2-3 lines) about your school and include the below items
+   a) Make use of strong & cite tag
+   b) Make use of quoted tags
+   c) Make few words of the above paragraphs inside double quotes using appropriate tags
